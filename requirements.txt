@@ -1,0 +1,14 @@
+langchain
+
+streamlit
+manim
+
+elevenlabs
+
+langchain_openai
+
+
+python-dotenv
+numpy
+httpx
+
