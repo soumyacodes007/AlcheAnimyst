@@ -72,7 +72,7 @@ graph TD
 
     L --> M["Final Video Output"];
     M --> A;
-
+            ```
 
 *The user provides a prompt to the Streamlit UI. The Alchemyst AI engine generates Manim code and a narration script. The script is converted to audio by ElevenLabs, while the Manim code is rendered into a video. If rendering fails, a retry loop attempts to fix the code. Finally, the successful video and audio are merged and presented to the user.*
 
