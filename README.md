@@ -4,6 +4,18 @@ An AI-powered tool that transforms your text prompts or documents into stunning 
 
 ---
 
+## 📽️ Demo
+
+<p align="center">
+  <a href="https://youtu.be/mq-_jhjst5A" target="_blank">
+    <img src="thumbnail.png" alt="AlcheAnimyst Demo Thumbnail" width="700">
+  </a>
+</p>
+
+*A brief demonstration of the UI and a generated video.*
+
+---
+
 ## 🚀 What is AlcheAnimyst?
 
 AlcheAnimyst is an end-to-end video generation system. It takes a simple idea and orchestrates a multi-step AI and rendering pipeline to produce a finished, narrated animation.
@@ -21,16 +33,7 @@ AlcheAnimyst is an end-to-end video generation system. It takes a simple idea an
 
 ---
 
-## 📽️ Demo
 
-<p align="center">
-  <!-- IMPORTANT: Replace this with a link to your own demo video or GIF! -->
-  <img src="https://path-to-your/demo.gif" alt="AlcheAnimyst Demo" width="700">
-</p>
-
-*A brief demonstration of the UI and a generated video.*
-
----
 
 ## 🛠️ Tech Stack
 
